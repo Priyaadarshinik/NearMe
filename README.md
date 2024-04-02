@@ -163,9 +163,9 @@ university.html
 ![alt text](<coco/Screenshot 2024-04-01 145357.png>)
 ![alt text](<coco/Screenshot 2024-04-01 145412.png>)
 ![alt text](<coco/Screenshot 2024-04-01 145424.png>)
+![alt text](<coco/Screenshot 2024-04-02 145216.png>)
 ![alt text](<coco/Screenshot 2024-04-01 145448.png>)
 ![alt text](<coco/Screenshot 2024-04-01 145502.png>)
-
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
